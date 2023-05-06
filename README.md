@@ -24,3 +24,10 @@ Skills: JAVA / PYTHON / C++ / MYSQL / NODE JS / REACT / JS / HTML / CSS / GIT
 <img height="240" width="1000" src="https://github-readme-activity-graph.cyclic.app/graph?username=SharforazRahman&bg_color=073642&color=2487cc&line=859900&point=ffc83d&area=true&hide_border=true" />
   
 </div>
+
+<h2 align="center">Connect with me:</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/sharforaz-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sharforaz Rahman" height="30" width="40" /></a>
+<a href="https://leetcode.com/sharforaz_rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Sharforaz Rahman" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/srs600814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sharforaz Rahman" height="30" width="40" /></a>
+</div>
