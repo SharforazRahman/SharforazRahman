@@ -9,9 +9,6 @@ Skills: JAVA / PYTHON / C++ / MYSQL / NODE JS / REACT / JS / HTML / CSS / GIT
 - 🌱 I’m currently learning REACT/ NODE.JS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SharforazRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SharforazRahman/)  
-
-
 ![Profile views](https://gpvc.arturio.dev/SharforazRahman)  
 
 <div align="center">
