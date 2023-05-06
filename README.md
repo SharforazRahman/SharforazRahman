@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Sharforaz Rahman
 #### Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/D5603AQGR7D6amgZ-iQ/profile-displayphoto-shrink_800_800/0/1672506832968?e=1688601600&v=beta&t=sRfSzDUB6LnwkqG6D9z2ILmsjzjF1gPIrRaOp2PId8s)
-
 An individual who is enthusiastic and ambitious with excellent organizing and Problem Solving abilities. Willing to help the team achieve the company's goals. Passionate for learning new applications and sharing knowledge. I am well-known for my efficiency and
 collaboration, and I consider myself to be a humble person.
 
