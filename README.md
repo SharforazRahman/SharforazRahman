@@ -15,6 +15,4 @@ Skills: JAVA / PYTHON / C++ / MYSQL / NODE JS / REACT / JS / HTML / CSS / GIT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharforazRahman&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SharforazRahman)  
-
 ![Profile views](https://gpvc.arturio.dev/SharforazRahman)  
