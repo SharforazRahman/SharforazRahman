@@ -24,6 +24,6 @@ Skills: JAVA / PYTHON / C++ / MYSQL / NODE JS / REACT / JS / HTML / CSS / GIT
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharforazRahman&theme=solarized_dark" />
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharforazRahman&theme=solarized_dark" />
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharforazRahman&theme=solarized_dark&utcOffset=8" />
-<img height="240" width="1000" src="https://github-readme-activity-graph.cyclic.app/graph?username=utshodeytech&bg_color=073642&color=2487cc&line=859900&point=ffc83d&area=true&hide_border=true" />
+<img height="240" width="1000" src="https://github-readme-activity-graph.cyclic.app/graph?username=SharforazRahman&bg_color=073642&color=2487cc&line=859900&point=ffc83d&area=true&hide_border=true" />
   
 </div>
